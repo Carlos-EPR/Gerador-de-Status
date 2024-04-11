@@ -1,0 +1,154 @@
+						Raridade dos itens:
+
+Marrom: Bronze; (10 - 80)
+Cinza: Prata; (81 - 130)
+Amarelo: Ouro; (131 - 180)
+Verde: Esmeralda; (181 - 220)
+Azul: Diamante; (221 - 260)
+Vermelho: Ruby; (261 - 300)
+Preta: Obsidiana; (301 - 350)
+Arco-iris: Opala; (351 -500)
+
+						Atributos dos itens:
+
+Strength (STR)
+Vitality (VIT)
+Agility (AGI)
+Intelligence (INT)
+Resistance (RES)
+Luck (LUC)
+
+						Cores de itens:
+
+Vermelho
+Azul
+Verde
+Amarelo
+Laranja
+Roxo
+Rosa
+Marrom
+Preto
+Branco
+Cinza
+Dourado
+Prateado
+Turquesa
+Índigo
+
+						Dano de efeito itens:
+
+Raio
+Trovão
+Veneno
+Gelo
+Fogo
+Divino
+Mágico
+Sombras
+Arco-Íris
+Plasma
+Arcano
+Tempestade
+
+						Ranking de poder itens:
+ 
+Iniciante (Cinza): 0 - 250
+Aprendiz (Verde): 251 - 500
+Experiente (Azul): 501 - 800
+Proficiente (Roxo): 801 - 1300
+Especialista (Laranja): 1201 - 2000
+Mestre (Vermelho): 2001 - 3000
+Guru (Dourado): 3000 - 5000
+
+						Tipos de itens:
+
+Cabeça:
+	Elmo
+	Chapéu
+	Coroa
+	Capuz
+	Máscara
+	Véu
+
+Torso:
+	Couro
+	Acolchoada
+	gibão
+	Camisa de malha
+	Escama
+	Peitoral
+	Cota de malha
+	Placa
+
+Pulsos:
+	Bracelete
+	Braçadeira
+	Manilhas
+	Ataduras
+	Munhequeiras
+
+Mãos:
+	Luva
+	Garra
+	Manopla
+	Punho
+
+Cintura:
+	Cinto
+	Cinturão
+	Faixa
+	Cordão
+	Arnês
+
+Pernas:
+	Calça
+	Ceroula
+	Perneira
+	Coxote
+
+Pés:
+	Bota
+	Sapato
+	Sandália
+	Botina
+	Greva
+
+Joalheria:
+	Amuleto
+	Colar
+	Anel
+	Aliança
+	Sinete
+
+Armas:
+	Machado
+	Adaga
+	Maça
+	Lança
+	Espada
+	Faca
+	Mangual
+	Alfanje
+	Cajado
+	Arcos
+	Besta
+	Varinha
+	Tomo
+	Punhal
+
+Exemplo de descrição para armas/equipamentos/Ambientes IA:
+
+Espada negra com efeitos de raio:
+
+A Espada Fulgurante Sombria é uma lâmina longa e imponente com uma aparência sinistra e misteriosa. Sua lâmina, forjada em metal escuro, exibe padrões intricados que absorvem a luz, conferindo-lhe um visual etéreo. O cabo, envolto em couro negro, apresenta entalhes circulares revelando runas encantadas. A guarda, esculpida em um padrão de relâmpagos, proporciona proteção e estética impressionante. O pomo ostenta uma pedra negra incrustada, irradiando um brilho suave. Uma aura de eletricidade azulada dança ao redor da lâmina, emitindo faíscas e raios que iluminam a escuridão. No conjunto, a Espada Fulgurante Sombria é uma obra-prima visual, combinando elegância sombria e elementos elétricos para criar uma presença temível.
+
+The Dark Fulgur Sword is a long, imposing blade with a sinister and mysterious appearance. Its blade, forged from dark metal, displays intricate patterns that absorb light, giving it an ethereal look. The handle, wrapped in black leather, has circular carvings revealing enchanted runes. The guard, carved in a lightning bolt pattern, provides protection and impressive aesthetics. The pommel bears an inlaid black stone, radiating a soft glow. An aura of bluish electricity dances around the blade, emitting sparks and lightning that illuminate the darkness. All in all, the Dark Fulgur Sword is a visual masterpiece, combining dark elegance and electric elements to create a fearsome presence.
+
+Ferraria ambiente:
+
+The medieval smithy is a robust and rustic environment, characterized by the intense heat of the furnaces, the striking sound of metal being shaped and the careful arrangement of tools hanging on the stone walls. In the center, a large furnace emits a dancing flame, illuminating a blacksmith dressed in worn clothes, holding a hammer in front of an imposing anvil. His calloused hands and concentrated gaze reveal the mastery he has acquired over the years.
+
+Ferriro/Forjador:
+
+The medieval blacksmith, sitting in front of his worn-out anvil, displays an imposing and robust posture. Dressed in worn clothes, he holds a massive sledgehammer with calloused hands, showing his experience. The anvil, positioned like an altar of creation, shows signs of incessant work. Illuminated by the flames of the furnace, the blacksmith focuses his gaze, preparing to shape the glowing metal before him. This is a scene where skill and art intertwine, and the blacksmith masters the environment with dexterity and determination.
